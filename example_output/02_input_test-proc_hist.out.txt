@@ -1,0 +1,17 @@
+B cell receptor signaling pathway,   45.519
+DNA-templated transcription,    1.543
+DO NOT USE,    6.662
+G protein-coupled receptor signaling pathway,    0.660
+acute-phase response,    1.748
+adaptive immune response,    3.042
+apoptotic process,    0.049
+cellular response to calcium ion starvation,   17.689
+cellular response to iron ion,    0.862
+complement activation,    0.816
+complement activation, lectin pathway,    4.550
+epidermis development,    5.984
+immune response,    1.130
+innate immune response,    0.614
+retrotransposition,    8.730
+stem cell differentiation,    0.251
+other,    0.152
